@@ -21,7 +21,7 @@ public class Basket {
 
     @Override
     public String toString() {
-        return "Basket{" +
+        return "Basket {" +
                 "productID=" + products +
                 '}';
     }
